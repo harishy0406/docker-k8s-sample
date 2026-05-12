@@ -1,4 +1,4 @@
-# Masterclass Sample Application: Docker, Kubernetes, and Microservices
+# Masterclass Sample Application: Docker, Kubernetes, and Microservices 
 
 [![GitHub stars](https://img.shields.io/github/stars/snkshukla/masterclass-sample.svg?style=social)](https://github.com/snkshukla/masterclass-sample/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/snkshukla/masterclass-sample.svg?style=social)](https://github.com/snkshukla/masterclass-sample/network/members)
